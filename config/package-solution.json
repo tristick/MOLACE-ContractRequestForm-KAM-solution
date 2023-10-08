@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "molace-contract-request-form-kam-solution-client-side-solution",
+    "id": "40e44f7d-1183-4f54-bd48-d50cc5e7bf15",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "molace-contract-request-form-kam-solution description"
+      },
+      "longDescription": {
+        "default": "molace-contract-request-form-kam-solution description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "molace-contract-request-form-kam-solution Feature",
+        "description": "The feature that activates elements of the molace-contract-request-form-kam-solution solution.",
+        "id": "b07bf4f9-874d-48ae-acc3-56d5602a9f31",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/molace-contract-request-form-kam-solution.sppkg"
+  }
+}
